@@ -1,5 +1,3 @@
-Fujio
-
 This page is a index to my online work.
 
 ## Streams
