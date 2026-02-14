@@ -1,4 +1,4 @@
-This page is a index to my online work.
+This page is an index to my online work.
 
 - [Twitch](https://www.twitch.tv/fujio_nakatsuru) — Live streams and past broadcasts.
 - [Stream Log](https://fujionakatsuru.github.io/stream-log/) — A record of games I’ve streamed or played.
