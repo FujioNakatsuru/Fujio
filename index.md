@@ -8,5 +8,5 @@ This page is a index to my online work.
 
 ## Other Links
 - [YouTube](https://www.youtube.com/@Fujio_Nakatsuru/playlists) — Stream archives and playlists.
-- [ X ](https://x.com/fujio_nakatsuru) — Stream updates, notes, and photos.
+- [>X<](https://x.com/fujio_nakatsuru) — Stream updates, notes, and photos.
 - [Flickr](https://www.flickr.com/photos/204096828@N08/) — Photo archive.
